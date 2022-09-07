@@ -1,0 +1,22 @@
+{
+  "name": "CS5513-Week03-ScottTennison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "components": "^0.1.0",
+    "date-fns": "^2.29.2",
+    "gray-matter": "^4.0.3",
+    "next": "^12.2.5",
+    "pages": "0.0.16",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1",
+    "styles": "^0.2.1"
+  }
+}
