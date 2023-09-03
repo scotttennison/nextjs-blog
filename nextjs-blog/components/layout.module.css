@@ -1,15 +1,22 @@
+/* Adding fun fonts and colors */
 .container {
   max-width: 36rem;
   padding: 0 1rem;
   margin: 3rem auto 6rem;
+  font-family: 'Comic Sans MS', cursive; /* Fun font */
+  color: #333; /* Text color */
 }
 
 .header {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: 'Indie Flower', cursive; /* Another fun font */
+  color: #ff6600; /* Header text color */
 }
 
 .backToHome {
   margin: 3rem 0 0;
+  font-family: 'Arial', sans-serif; /* Default sans-serif font */
+  color: #007bff; /* Link color */
 }
